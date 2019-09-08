@@ -10,6 +10,11 @@ Fill details of your approach below:
 [text here]
 - ### Praveen
 The system calls required for the application are available on the android library(Sensor Manager) on JAVA Android SDK.
-The [Docs](https://developer.android.com/guide/topics/sensors/sensors_overview) has list of all the Sensors and their documentation with examples on how to use it in oth JAVA and Kotlin.
+The [Docs](https://developer.android.com/guide/topics/sensors/sensors_overview) has list of all the Sensors and their documentation with examples on how to use it in both JAVA and Kotlin.
+``` java
+import android.hardware.Sensor;
+import android.hardware.SensorEvent;
+import android.hardware.SensorEventListener;
+import android.hardware.SensorManager;```
 - ### Chin
 [text here]
