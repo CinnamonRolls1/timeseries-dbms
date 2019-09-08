@@ -15,6 +15,8 @@ The [Docs](https://developer.android.com/guide/topics/sensors/sensors_overview) 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
-import android.hardware.SensorManager;```
+import android.hardware.SensorManager;
+```
+
 - ### Chin
 [text here]
