@@ -1,4 +1,4 @@
-# TSDS
+# DBMS (TSDS)
 
 ### Documentation (Due on 8th)
 #### Reference issue #2
