@@ -9,6 +9,7 @@ Fill details of your approach below:
 - ### Kishan
 [text here]
 - ### Praveen
-[text here]
+The system calls required for the application are available on the android library(Sensor Manager) on JAVA Android SDK.
+The [Docs](https://developer.android.com/guide/topics/sensors/sensors_overview) has list of all the Sensors and their documentation with examples on how to use it in oth JAVA and Kotlin.
 - ### Chin
 [text here]
