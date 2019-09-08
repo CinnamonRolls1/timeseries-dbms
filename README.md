@@ -12,7 +12,7 @@ Fill details of your approach below:
 [text here]
 
 - ### Praveen
-The system calls required for the application are available on the android library(Sensor Manager) on JAVA Android SDK.
+  The system calls required for the application are available on the android library(Sensor Manager) on JAVA Android SDK.
 The [Docs](https://developer.android.com/guide/topics/sensors/sensors_overview) has list of all the Sensors and their documentation with examples on how to use it in both JAVA and Kotlin.
 ``` java
 import android.hardware.Sensor;
@@ -22,4 +22,4 @@ import android.hardware.SensorManager;
 ```
 
 - ### Chin
-Graphing can be done using a charting library. There are many candidate libraries but we will proceed with [AChartEngine](https://github.com/ddanny/achartengine); aside from having the basic graphs, it also supports [dynamic](http://wptrafficanalyzer.in/blog/android-dynamic-chart-using-achartengine/) real-time graphing which is necessary for our application. We will mostly be working with line charts, area charts, bar graphs and pie charts.  
+  Graphing can be done using a charting library. There are many candidate libraries but we will proceed with [AChartEngine](https://github.com/ddanny/achartengine); aside from having the basic graphs, it also supports [dynamic](http://wptrafficanalyzer.in/blog/android-dynamic-chart-using-achartengine/) real-time graphing which is necessary for our application. We will mostly be working with line charts, area charts, bar graphs and pie charts.  
